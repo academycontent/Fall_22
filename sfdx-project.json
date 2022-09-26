@@ -7,7 +7,7 @@
         {
             "path": "base-objects",
             "default": false,
-            "package": "Package_Number_2",
+            "package": "First_Demo_Package",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -17,6 +17,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "Package_Number_2": "0Ho4x000000PBDNCA4"
+        "First_Demo_Package": "0Ho4x000000PBD8CAO"
     }
 }
